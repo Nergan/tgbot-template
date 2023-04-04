@@ -1,0 +1,1 @@
+A template for a telegram bot in Python, using the Telebot library.
